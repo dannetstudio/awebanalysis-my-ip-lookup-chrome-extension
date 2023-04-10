@@ -3,7 +3,6 @@
   "name": "aWebAnalysis.com - My IP Lookup",
   "version": "1.0",
   "description": "Obtain info on your IP with a click: location, type, ISP, time zone, proxy detection, connection type and many more technical data.",
-  "permissions": ["tabs"],
   "action": {
     "default_icon": {
       "16": "icon16.png",
